@@ -1,2 +1,6 @@
-# Spam-Filtering-Methods
-I have explored multiple ways to cope with a prevalent spam mail attack. In this repository, I presented three deep learning or machine learning techniques to construct filtering system against attackers. 
+# 📧 SMS Spam Classifier with LSTM
+
+This project is a deep learning-based solution for SMS spam detection using an LSTM (Long Short-Term Memory) model. The model is trained to distinguish between spam and legitimate messages based on text content.
+
+
+
